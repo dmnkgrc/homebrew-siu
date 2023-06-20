@@ -1,7 +1,7 @@
-class SmuAT001 < Formula
+class Smu < Formula
   desc "SMU is a CLI to help you and your team setup computers fast"
   homepage "https://github.com/dmnkgrc/smu"
-  url "https://github.com/dmnkgrc/smu.git", tag: "v0.0.1"
+  url "https://github.com/dmnkgrc/smu.git"
   license "MIT"
   head "https://github.com/dmnkgrc/smu.git", branch: "main"
 
