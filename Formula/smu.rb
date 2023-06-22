@@ -1,5 +1,5 @@
 class Smu < Formula
-  desc "SMU is a CLI to help you and your team setup computers fast"
+  desc "smu is a CLI to help you and your team setup computers fast"
   homepage "https://github.com/dmnkgrc/smu"
   url "https://github.com/dmnkgrc/smu.git", tag: "v0.1.0"
   license "MIT"
