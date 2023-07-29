@@ -1,10 +1,10 @@
-# Dmnkgrc Smu
+# dmnkgrc/siu
 
 ## How do I install these formulae?
 
-`brew install dmnkgrc/smu/<formula>`
+`brew install dmnkgrc/siu/<formula>`
 
-Or `brew tap dmnkgrc/smu` and then `brew install <formula>`.
+Or `brew tap dmnkgrc/siu` and then `brew install <formula>`.
 
 ## Documentation
 
