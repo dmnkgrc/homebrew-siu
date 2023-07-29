@@ -1,5 +1,5 @@
 class Siu < Formula
-  desc "Siu is a CLI to help you and your team setup computers fast"
+  desc "A CLI to help you and your team setup computers and projects fast"
   homepage "https://github.com/dmnkgrc/siu"
   url "https://github.com/dmnkgrc/siu.git", tag: "v0.2.0"
   license "MIT"
